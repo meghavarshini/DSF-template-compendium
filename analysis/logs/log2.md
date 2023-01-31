@@ -1,7 +1,7 @@
 # MK-Learner Log Entry #1 
 
 ### Rose:
-- Open Data vs open script
+- Open Science applications- hearing more from Nicole
 
 ### Bud: 
 - Thinking more about standards for research in linguistics
