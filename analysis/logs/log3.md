@@ -1,4 +1,4 @@
-# MK-Learner Log Entry #1 
+# MK-Learner Log Entry #3
 
 ### Rose:
 - Why should we make multiple, small commmits, over large commits?
