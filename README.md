@@ -1,14 +1,13 @@
-# Data Science Institute Data Science Fellows Template Research Compendium
+# Data Science Institute Data Science Fellows Research Compendium: Megh Krishnaswamy
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## A compendium of code, data, and author's manuscript accompanying the manuscript:
 
-#### TBD
-
-
 ## Overview
-This repository is organized as a reproducible research compendium. Future updates to this compendium will include a Dockerfile and Binder Container
+This repository is organized as a reproducible research compendium. Future updates to this compendium will include a Dockerfile and Binder Container.
+
+The directory logs/ contains my weekly logs from my time as a Data Science Fellow.
 
 ## File Organization
 
